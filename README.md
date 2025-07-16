@@ -2,7 +2,7 @@
 
 Hi there, I’m **Tanishq Gupta**!  
 
-I’m a passionate aspiring **Quantitative Finance student** with a strong background in **Mathematics**, and **Economics**.  
+A passionate aspiring **Quantitative Finance student** with a strong background in **Mathematics**, and **Economics**.  
 
 ---
 
