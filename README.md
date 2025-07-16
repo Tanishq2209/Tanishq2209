@@ -37,7 +37,7 @@ Feel free to browse and explore my work!
 
 ## 🔗 Connect with Me  
 
-[**LinkedIn Profile**](https://www.linkedin.com/in/tanishq-gupta-443197200/) 
+[**LinkedIn Profile**](https://www.linkedin.com/in/tanishq-gupta-443197200/) \
 [**Email ID**](mailto:gu.tanishq@gmail.com) 
 
 ---
