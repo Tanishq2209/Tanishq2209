@@ -11,8 +11,7 @@ I am proficient in:
 - **Python**
 - **R**   
 - **MATLAB**
-- **STATA** 
-- **MYSQL**  
+- **MS-Excel**
 
 I have leverage these tools to address different real-world financial challenges, gain data-driven results, and to deliever a meaningful impact through my analytical and innovative skills.
 
@@ -20,7 +19,7 @@ I have leverage these tools to address different real-world financial challenges
 
 ## 💡 Passionate Learner  
 
-I am logical thinker for solving complex financial problems, and I'm deeply committed  to **continuous learning**, and **professional growth**.  
+I am a logical thinker for solving complex financial problems, and deeply committed to **continuous learning**, and **professional growth**.  
 My goal is to deepen my expertise in  **Risk Management**, **Computational Finance**, **Portfolio Management**, and **Data Analysis**, while building a strong foundation for impactful innovative work in the Financial sector.  
 
 ---
