@@ -1,11 +1,8 @@
-# 👋 Welcome to My Quantitative Finance Hub
+# Hi there, Welcome to My Hub!
 
-![Quant Finance Banner](https://blog.quantinsti.com/content/images/2022/06/Quantitative-Finance.png)
 
 ## 🎓 About Me
-Hi there, I’m **Tanishq Gupta**!  
-
-A passionate aspiring **Quantitative Finance student** with a strong background in **Mathematics**, and **Economics**.  
+I’m **Tanishq Gupta**, a passionate aspiring **Quantitative Finance student** with a strong background in **Mathematics**, and **Economics**.  
 
 ---
 
