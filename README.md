@@ -28,8 +28,7 @@ My goal is to deepen my expertise in  **Risk Management**, **Computational Finan
 
 Explore my repositories for projects in:  
 - **Option Pricing Toolkit**  
-- **Analysing Exchange Rates & Stock Market Indices**  
-- **Statistical Arbitrage with Cointegration**  
+- **Analysing Exchange Rates & Stock Market Indices relationships**   
 
 Feel free to browse and explore my work!  
 
