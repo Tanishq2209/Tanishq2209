@@ -1,7 +1,6 @@
-Hi there, Welcome to My Hub!
+##  Hey there, Welcome to My Hub, I’m Tanishq Gupta!⚡
 
-## 🎓 About Me
-I’m **Tanishq Gupta**, a passionate aspiring **Quant** with a strong background in **Mathematics**, **Machine Learning**, and **Finance**.  
+**I do Data Analysis/ML Research at IPN, Kiel and am a passionate aspiring Quantitative Finance Grad at Christian-Albrechts-Universität zu Kiel.**  
 
 ---
 
