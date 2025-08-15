@@ -9,7 +9,9 @@ I’m **Tanishq Gupta**, a passionate aspiring **Quant** with a strong backgroun
 
 I am proficient in:  
 - **Python**
-- **R**   
+- **R**
+- **Machine Learning**
+- **SQL**
 - **MATLAB**
 - **MS-Excel**
 
