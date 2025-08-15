@@ -1,7 +1,7 @@
 Hi there, Welcome to My Hub!
 
 ## 🎓 About Me
-I’m **Tanishq Gupta**, a passionate aspiring **Quantitative Finance student** with a strong background in **Mathematics**, and **Economics**.  
+I’m **Tanishq Gupta**, a passionate aspiring **Quant** with a strong background in **Mathematics**, **Machine Learning**, and **Finance**.  
 
 ---
 
